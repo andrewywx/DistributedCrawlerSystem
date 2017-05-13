@@ -1,0 +1,5 @@
+Thu Nov 24 10:08:10 CST 2016--java.lang.IllegalStateException: The driver executable does not exist: D:\jar\chromedriver.exe   ThreadsManage.run(ThreadsManage.java:228)
+Thu Nov 24 10:08:10 CST 2016--java.lang.IllegalStateException: The driver executable does not exist: D:\jar\chromedriver.exe   ThreadsManage.run(ThreadsManage.java:228)
+Thu Nov 24 10:08:10 CST 2016--java.lang.IllegalStateException: The driver executable does not exist: D:\jar\chromedriver.exe   ThreadsManage.run(ThreadsManage.java:228)
+Thu Nov 24 10:08:11 CST 2016--java.lang.IllegalStateException: The driver executable does not exist: D:\jar\chromedriver.exe   ThreadsManage.run(ThreadsManage.java:228)
+Thu Nov 24 10:08:11 CST 2016--java.lang.IllegalStateException: The driver executable does not exist: D:\jar\chromedriver.exe   ThreadsManage.run(ThreadsManage.java:228)

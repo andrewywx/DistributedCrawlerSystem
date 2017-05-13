@@ -1,0 +1,2 @@
+Wed Nov 09 11:21:25 CST 2016--Recvived Commond:CALL_inner readURLs D:\urls.txt java.lang.NullPointerException   Kernel.main(Kernel.java:440)
+Wed Nov 09 11:21:25 CST 2016--Recvived Commond:CALL_inner createThreads 3 java.lang.NullPointerException   Kernel.main(Kernel.java:440)
